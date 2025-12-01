@@ -56,7 +56,7 @@
 | Neko Q&A           | Normal   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/nekoqa | Phrinky |
 | ヰヰQA             | Normal   |              | LSJGP   |
 | 广工问答           | Normal   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/gdutqa | Phrinky |
-| 我们一起回去好不好 | Normal   |              | Ron     |
+| 我们一起回去好不好 | Normal   | https://github.com/Ron-1337/challenges_ADCTF2025/tree/master/%5BOSINT%5D%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%9B%9E%E5%8E%BB%E5%A5%BD%E4%B8%8D%E5%A5%BD | Ron     |
 
 ### PPC
 
@@ -89,7 +89,7 @@
 | モア！ジャンプ！モア！ | Hard     | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/more-jump-more | Phrinky      |
 | rkk_re                 | Master   |              | Teru Shigure |
 | 明风支付               | Master   |              | Jeremiah     |
-| canUCit                | Normal   |              | Ron          |
+| canUCit                | Normal   | https://github.com/Ron-1337/challenges_ADCTF2025/tree/master/canUCit | Ron          |
 | 野兽仙贝的呐喊         | Normal   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/yajusenpai | Phrinky      |
 
 ### Web
@@ -98,10 +98,10 @@
 | ------------------ | -------- | ------------------------------------------------------------ | --------- |
 | Crossy Road        | Easy     | https://github.com/GDUTMeow-Challenges/Challenge-Crossy-Road | Luminoria |
 | ez_upload          | Easy     |                                                              | LSJGP     |
-| tradingPlatform1   | Easy     |                                                              | Ron       |
+| tradingPlatform1   | Easy     | https://github.com/Ron-1337/challenges_ADCTF2025/tree/master/tradingPlatform1 | Ron       |
 | phf                | Expert   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/phf | Phrinky   |
 | Interstellar       | Hard     |                                                              | Rusty     |
-| tradingPlatform2   | Hard     |                                                              | Ron       |
+| tradingPlatform2   | Hard     | https://github.com/Ron-1337/challenges_ADCTF2025/tree/master/tradingPlatform2 | Ron       |
 | PacmanOL           | Normal   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/pacman-ol | Phrinky   |
 | SlowUGI-Downloader | Normal   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/slowugi-downloader | Phrinky   |
 | Worthit            | Normal   | https://github.com/GDUTMeow-Challenges/Challenge-WorthIt     | Luminoria |
