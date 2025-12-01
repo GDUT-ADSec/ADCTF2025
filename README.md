@@ -47,6 +47,7 @@
 | rickylang                   | Hard     |                                                              | Teru SHigure |
 | Click the Circles           | Normal   | https://github.com/GDUTMeow-Challenges/Challenge-Click-the-Circles | Luminoria    |
 | 欢迎来到我的 Github Profile | Normal   | https://github.com/GDUTMeow-Challenges/Challenge-Welcome-to-My-Profile | Luminoria    |
+| 知识问答                    | Easy     | https://github.com/GDUTMeow-Challenges/Challenge-Test-Your-Knowledge | Luminoria    |
 
 ### OSINT
 
