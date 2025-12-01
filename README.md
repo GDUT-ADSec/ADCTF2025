@@ -44,9 +44,10 @@
 | BaseHajimi                  | Easy     | https://github.com/GDUTMeow-Challenges/Challenge-BaseHajimi  | Luminoria    |
 | フラッグモザイク            | Easy     | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/flag-mosaic | Phrinky      |
 | secure-account              | Expert   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/secure-account | Phrinky      |
-| rickylang                   | Hard     |                                                              | Teru SHigure |
+| rickylang                   | Hard     |                                                              | Teru Shigure |
 | Click the Circles           | Normal   | https://github.com/GDUTMeow-Challenges/Challenge-Click-the-Circles | Luminoria    |
 | 欢迎来到我的 Github Profile | Normal   | https://github.com/GDUTMeow-Challenges/Challenge-Welcome-to-My-Profile | Luminoria    |
+| 知识问答                    | Easy     | https://github.com/GDUTMeow-Challenges/Challenge-Test-Your-Knowledge | Luminoria    |
 
 ### OSINT
 
