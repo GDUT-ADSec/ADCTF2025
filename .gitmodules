@@ -75,4 +75,4 @@
 	url = https://github.com/ricky8955555/adctf-2025-challenges.git
 [submodule "subprojects/Ron1337-challenges"]
 	path = subprojects/Ron1337-challenges
-	url = https://github.com/Ron-1337/challenges_ADCTF2025/
+	url = https://github.com/Ron-1337/challenges_ADCTF2025.git
