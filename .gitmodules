@@ -71,5 +71,5 @@
 	path = challenges/forensic/its-genshin-time
 	url = https://github.com/GDUTMeow-Challenges/Challenge-Its-Genshin-Time.git
 [submodule "subprojects/ricky8955555-challenges"]
-    path = subprojects/ricky8955555-challenges
-    url = https://github.com/ricky8955555/adctf-2025-challenges.git
+	path = subprojects/ricky8955555-challenges
+	url = git@github.com:ricky8955555/adctf-2025-challenges.git
