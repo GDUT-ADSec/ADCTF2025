@@ -100,12 +100,12 @@
 | ez_upload          | Easy     |                                                              | LSJGP     |
 | tradingPlatform1   | Easy     | [Link](https://github.com/Ron-1337/challenges_ADCTF2025/tree/master/tradingPlatform1) | Ron       |
 | phf                | Expert   | [Link](https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/phf) | Phrinky   |
-| Interstellar       | Hard     |                                                              | Rusty     |
+| Interstellar       | Hard     | [Link](https://github.com/rusty1e/InterStellar)              | Rusty     |
 | tradingPlatform2   | Hard     | [Link](https://github.com/Ron-1337/challenges_ADCTF2025/tree/master/tradingPlatform2) | Ron       |
 | PacmanOL           | Normal   | [Link](https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/pacman-ol) | Phrinky   |
 | SlowUGI-Downloader | Normal   | [Link](https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/slowugi-downloader) | Phrinky   |
-| Worthit            | Normal   | [Link](https://github.com/GDUTMeow-Challenges/Challenge-WorthIt)     | Luminoria |
-| Y2K Bank           | Normal   | [Link](https://github.com/GDUTMeow-Challenges/Challenge-Y2K-Bank)    | Luminoria |
+| Worthit            | Normal   | [Link](https://github.com/GDUTMeow-Challenges/Challenge-WorthIt) | Luminoria |
+| Y2K Bank           | Normal   | [Link](https://github.com/GDUTMeow-Challenges/Challenge-Y2K-Bank) | Luminoria |
 
 ### 如何使用
 
