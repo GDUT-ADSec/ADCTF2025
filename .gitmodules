@@ -79,3 +79,9 @@
 [submodule "challenges/misc/test-your-knowledge"]
 	path = challenges/misc/test-your-knowledge
 	url = https://github.com/GDUTMeow-Challenges/Challenge-Test-Your-Knowledge.git
+[submodule "challenges/reverse/signal_jammer"]
+	path = challenges/reverse/signal_jammer
+	url = https://github.com/Jeremiah-gdut/signal_jammer
+[submodule "challenges/reverse/Mingfengzhifu"]
+	path = challenges/reverse/Mingfengzhifu
+	url = https://github.com/Jeremiah-gdut/Mingfengzhifu
