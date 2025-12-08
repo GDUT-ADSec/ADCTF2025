@@ -84,11 +84,11 @@
 | TemariWant2Eat 2       | Hard     |              | lrhtony      |
 | 签到                   | Easy     |              | lrhtony      |
 | cspyshell              | Expert   | [Link](https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/cspyshell) | Phrinky      |
-| 信号干扰器             | Expert   |              | Jeremiah     |
+| 信号干扰器             | Expert   | [Link](https://github.com/Jeremiah-gdut/signal_jammer)             | Jeremiah     |
 | ezenc                  | Hard     | [Link](https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/ezenc) | Phrinky      |
 | モア！ジャンプ！モア！ | Hard     | [Link](https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/more-jump-more) | Phrinky      |
 | rkk_re                 | Master   |              | Teru Shigure |
-| 明风支付               | Master   |              | Jeremiah     |
+| 明风支付               | Master   | [Link](https://github.com/Jeremiah-gdut/Mingfengzhifu)              | Jeremiah     |
 | canUCit                | Normal   | [Link](https://github.com/Ron-1337/challenges_ADCTF2025/tree/master/canUCit) | Ron          |
 | 野兽仙贝的呐喊         | Normal   | [Link](https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/yajusenpai) | Phrinky      |
 
