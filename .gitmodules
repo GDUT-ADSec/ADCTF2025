@@ -88,3 +88,6 @@
 [submodule "challenges/web/InterStellar"]
 	path = challenges/web/InterStellar
 	url = https://github.com/rusty1e/InterStellar.git
+[submodule "challenges/reverse/TemariWant2Eat"]
+	path = challenges/reverse/TemariWant2Eat
+	url = https://github.com/lrhtony/TemariWant2Eat.git

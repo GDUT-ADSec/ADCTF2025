@@ -80,8 +80,8 @@
 
 | 题目名称               | 题目难度 | 题目仓库链接 | 出题人       |
 | ---------------------- | -------- | ------------ | ------------ |
-| TemariWant2Eat 1       | Easy     |              | lrhtony      |
-| TemariWant2Eat 2       | Hard     |              | lrhtony      |
+| TemariWant2Eat 1       | Easy     | [Link](https://github.com/lrhtony/TemariWant2Eat) | lrhtony      |
+| TemariWant2Eat 2       | Hard     | [Link](https://github.com/lrhtony/TemariWant2Eat) | lrhtony      |
 | 签到                   | Easy     |              | lrhtony      |
 | cspyshell              | Expert   | [Link](https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/cspyshell) | Phrinky      |
 | 信号干扰器             | Expert   | [Link](https://github.com/Jeremiah-gdut/signal_jammer)             | Jeremiah     |
