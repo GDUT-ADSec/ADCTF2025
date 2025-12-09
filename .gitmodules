@@ -85,3 +85,6 @@
 [submodule "challenges/reverse/Mingfengzhifu"]
 	path = challenges/reverse/Mingfengzhifu
 	url = https://github.com/Jeremiah-gdut/Mingfengzhifu
+[submodule "challenges/web/InterStellar"]
+	path = challenges/web/InterStellar
+	url = https://github.com/rusty1e/InterStellar.git
