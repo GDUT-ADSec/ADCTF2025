@@ -1658,7 +1658,7 @@ DECODED_WITH_PREFIX=$(echo "$TMP_STRING" | tr '!-~' 'P-~!-O')
 
 题库来源于中国社会科学院大学网络中心下发的《网络安全知识题库2025》
 
-暂时无法在飞书文档外展示此内容
+> https://nc.ucass.edu.cn/info/1160/1594.htm
 
 ## BaseHajimi
 
